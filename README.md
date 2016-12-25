@@ -1,2 +1,2 @@
-# reactcalculator
+# ReactJS Calculator
 Simple Reactjs Calculator
