@@ -1,0 +1,34 @@
+body {
+  background: #d5d5d5; 
+  font-family: arial;
+  color: #FAFAFA;
+  text-transform: uppercase;
+}
+
+.calDisplay {
+  width: 200px;
+  background-color: #9da0a4;
+  padding: 0.5em;
+  margin: auto;
+  border-radius: 3px;
+}
+.calDisplayScreen {
+  background-color: #fff;
+  color: #000000;
+  border: 1px solid #ccc;
+  padding: 1em;
+  margin-bottom: 5px;
+}
+.calcButton {
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 2px;
+  background-color: #ECE9E9;
+  color: #000000;
+  width: 26px;
+  text-align: center;
+}
+
+.calcButton:hover {
+  background-color: #ffffff;
+}
